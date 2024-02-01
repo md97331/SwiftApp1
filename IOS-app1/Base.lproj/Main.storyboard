@@ -55,6 +55,11 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
+                    <connections>
+                        <outlet property="L1" destination="PCz-Aq-iF7" id="C6M-Ws-DbQ"/>
+                        <outlet property="L2" destination="m9K-2Q-NCv" id="J9v-2I-MqC"/>
+                        <outlet property="L3" destination="AaC-KZ-D5v" id="y1y-d0-4w3"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
