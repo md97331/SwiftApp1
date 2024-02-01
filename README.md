@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![Alt Text](https://media.giphy.com/embed/0YFWTzwOf1hrDYCoTY.git)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xs1G6Pw"  ><a href="//imgur.com/a/xs1G6Pw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## App Brainstorming (Step 4)
 ### Spotify
