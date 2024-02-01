@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![Alt Text]("https://giphy.com/embed/0YFWTzwOf1hrDYCoTY.git")
+![Alt Text](https://giphy.com/embed/0YFWTzwOf1hrDYCoTY.git)
 
 ## App Brainstorming (Step 4)
 ### Spotify
