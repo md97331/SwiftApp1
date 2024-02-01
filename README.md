@@ -15,11 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-
-<a href="//imgur.com/a/xs1G6Pw">
-<img style = "max-width:300px;" src="https://imgur.com/a/xs1G6Pw">
-</a>
-
+![Alt Text](//imgur.com/a/xs1G6Pw.git)
 
 
 ## App Brainstorming (Step 4)
