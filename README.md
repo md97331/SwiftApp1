@@ -14,7 +14,8 @@ The following **required** functionality is completed:
 - [ x ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-![](https://giphy.com/gifs/0YFWTzwOf1hrDYCoTY.gif)
+
+![hippo](https://giphy.com/gifs/0YFWTzwOf1hrDYCoTY.gif)
 
 ## App Brainstorming (Step 4)
 ### Spotify
