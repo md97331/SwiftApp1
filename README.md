@@ -16,9 +16,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 
-<a href="https://giphy.com/gifs/0YFWTzwOf1hrDYCoTY">
-<img style = "max-width:300px;" src="https://giphy.com/gifs/0YFWTzwOf1hrDYCoTY">
+<a href="//imgur.com/a/xs1G6Pw">
+<img style = "max-width:300px;" src="//imgur.com/a/xs1G6Pw">
 </a>
+
 
 ## App Brainstorming (Step 4)
 ### Spotify
