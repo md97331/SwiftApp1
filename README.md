@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 
 ![hippo](https://imgur.com/a/xs1G6Pw.gif)
 ![hippo](https://imgur.com/a/xs1G6Pw)
+<iframe src="https://giphy.com/embed/0YFWTzwOf1hrDYCoTY" width="249" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/0YFWTzwOf1hrDYCoTY">via GIPHY</a>
 
 ## App Brainstorming (Step 4)
 ### Spotify
