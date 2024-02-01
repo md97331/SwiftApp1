@@ -17,8 +17,9 @@ The following **required** functionality is completed:
 
 
 <a href="//imgur.com/a/xs1G6Pw">
-<img style = "max-width:300px;" src="//imgur.com/a/xs1G6Pw">
+<img style = "max-width:300px;" src="https://imgur.com/a/xs1G6Pw">
 </a>
+
 
 
 ## App Brainstorming (Step 4)
