@@ -15,10 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![hippo](https://imgur.com/a/xs1G6Pw.gif)
-![hippo](https://imgur.com/a/xs1G6Pw)
-<iframe src="https://giphy.com/embed/0YFWTzwOf1hrDYCoTY" width="249" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/0YFWTzwOf1hrDYCoTY">via GIPHY</a>
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xs1G6Pw" data-context="false" ><a href="//imgur.com/a/xs1G6Pw">APP</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xs1G6Pw" data-context="false" ><a href="//imgur.com/a/xs1G6Pw.git">APP</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ## App Brainstorming (Step 4)
 ### Spotify
 Personalized playlists, the ability to discover new music through previous playlists!
