@@ -15,7 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![hippo](https://giphy.com/gifs/0YFWTzwOf1hrDYCoTY.gif)
+![hippo](https://imgur.com/a/xs1G6Pw.gif)
+![hippo](https://imgur.com/a/xs1G6Pw)
 
 ## App Brainstorming (Step 4)
 ### Spotify
