@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![Alt Text](//imgur.com/a/xs1G6Pw.git)
+![Alt Text]("https://imgur.com/a/xs1G6Pw.git")
 
 
 ## App Brainstorming (Step 4)
