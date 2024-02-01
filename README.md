@@ -17,7 +17,6 @@ The following **required** functionality is completed:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/y4m8M1J" data-context="false" ><a href="//imgur.com/a/y4m8M1J"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-
 ## App Brainstorming (Step 4)
 ### Spotify
 Personalized playlists, the ability to discover new music through previous playlists!
