@@ -16,7 +16,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[APP](https://imgur.com/a/xs1G6Pw.gif)
+<img class="image-placeholder" src="https://i.imgur.com/nUsg2Ir.gif" alt="APP">
 
 ## App Brainstorming (Step 4)
 ### Spotify
